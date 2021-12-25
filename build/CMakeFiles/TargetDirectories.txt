@@ -1,0 +1,3 @@
+/home/segev/gstreamer_test/gst-simple-tst/build/CMakeFiles/rebuild_cache.dir
+/home/segev/gstreamer_test/gst-simple-tst/build/CMakeFiles/edit_cache.dir
+/home/segev/gstreamer_test/gst-simple-tst/build/CMakeFiles/inputtest.dir

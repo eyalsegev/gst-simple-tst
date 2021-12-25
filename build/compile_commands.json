@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/segev/gstreamer_test/gst-simple-tst/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9  -DGST_API_VERSION_1=1 -I/usr/include/glib-2.0 -I/usr/lib/x86_64-linux-gnu/glib-2.0/include -I/usr/include/gstreamer-1.0 -I/usr/include/orc-0.4 -I/home/segev/gstreamer_test/gst-simple-tst   -Wall -std=gnu++0x -g -fpermissive -g   -o CMakeFiles/inputtest.dir/app/main.cpp.o -c /home/segev/gstreamer_test/gst-simple-tst/app/main.cpp",
+  "file": "/home/segev/gstreamer_test/gst-simple-tst/app/main.cpp"
+}
+]
